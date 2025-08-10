@@ -1,0 +1,2 @@
+it is file About git
+to add after the commit
