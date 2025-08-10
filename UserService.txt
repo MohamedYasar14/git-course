@@ -1,2 +1,3 @@
 it is file About git
 to add after the commit
+so we can change it
